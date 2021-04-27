@@ -54,7 +54,7 @@ Possible values to put here are:
 - Arbitrary text
 - Special variables:
     - `{page}` current page number
-    - `{header}` current top-level body text heading
+    - `{heading}` current top-level body text heading
     - `{date}` current date
 
 Example:
